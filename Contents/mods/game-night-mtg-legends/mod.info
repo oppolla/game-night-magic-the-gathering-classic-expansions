@@ -1,0 +1,6 @@
+name=Game Night - Magic The Gathering - Legends Expansion Set
+id=gamenight_magic
+description=Simple strategies...Infinte possibilies
+poster=poster.png
+require=gamenight
+require=gamenight-magic
