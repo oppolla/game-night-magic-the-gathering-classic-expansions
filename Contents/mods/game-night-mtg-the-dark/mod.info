@@ -1,5 +1,5 @@
 name=Game Night - Magic The Gathering - The Dark Expansion Set
-id=gamenight_magic
+id=gamenight_magic_the_dark
 description=Simple strategies...Infinte possibilies
 poster=poster.png
 require=gamenight

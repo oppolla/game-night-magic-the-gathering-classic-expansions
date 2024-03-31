@@ -1,5 +1,5 @@
 version=1
-title=Game Night: Magic The Gathering - Pre-Block Expansions
+title=Game Night: Magic The Gathering - Classic Expansions
 description=Simple strategies... Infinite possibilities.
 tags=Items
 visibility=unlisted
