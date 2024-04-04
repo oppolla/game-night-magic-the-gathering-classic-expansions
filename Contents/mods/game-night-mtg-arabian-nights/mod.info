@@ -1,5 +1,5 @@
 name=Game Night - Magic The Gathering - Arabian Nights Expansion Set
-id=gamenight_magic_arabian_nights
+id=gamenight_mtg_arabian_nights
 description=Simple strategies...Infinte possibilies
 poster=poster.png
 require=gamenight
