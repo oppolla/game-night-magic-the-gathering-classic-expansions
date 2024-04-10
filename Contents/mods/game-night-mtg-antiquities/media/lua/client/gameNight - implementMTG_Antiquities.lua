@@ -1,4 +1,5 @@
 local applyItemDetails = require "gameNight - implementMTG_Alpha"
+local deckActionHandler = applyItemDetails.deckActionHandler
 
 MTG.antiquities = {
 
@@ -198,3 +199,5 @@ MTG.antiquitiesCommon = {
     "MTG Antiquities White 7", -- Reverse Polarity
     "MTG Antiquities Artifacts 28", -- Grapeshot Catapult 
 }
+
+deckActionHandler.addDeck("mtgCards", MTG.catalogue, MTG.altNames)
